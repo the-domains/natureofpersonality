@@ -2,6 +2,7 @@ name: NatureOfPersonality
 favicon: null
 layout_spectrum: 0.24488
 typography_spectrum: 0.67816
+title: NOP
 cta:
   domain: null
   bucket: null
